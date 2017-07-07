@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/kube-scheduler-amd64:v1.7.0
+FROM gcr.io/google-containers/k8s-dns-sidecar-amd64:1.14.4
